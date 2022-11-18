@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-hooks-images/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-04-hooks-images/static/js/main.07d3183d.js",
-    "index.html": "/goit-react-hw-04-hooks-images/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-04-hooks-images/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-04-hooks-images/static/js/main.07d3183d.js.map"
+    "main.css": "//angryface97.github.io/goit-react-hw-04-hooks-images/static/css/main.93e2e4ea.css",
+    "main.js": "//angryface97.github.io/goit-react-hw-04-hooks-images/static/js/main.7b278da5.js",
+    "index.html": "//angryface97.github.io/goit-react-hw-04-hooks-images/index.html",
+    "static/media/search.svg": "//angryface97.github.io/goit-react-hw-04-hooks-images/static/media/search.6ac6b6bcaab3e1f14023.svg",
+    "main.93e2e4ea.css.map": "//angryface97.github.io/goit-react-hw-04-hooks-images/static/css/main.93e2e4ea.css.map",
+    "main.7b278da5.js.map": "//angryface97.github.io/goit-react-hw-04-hooks-images/static/js/main.7b278da5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.93e2e4ea.css",
+    "static/js/main.7b278da5.js"
   ]
 }
